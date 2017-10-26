@@ -11,5 +11,9 @@ useful website backup
   blog:
 	http://blog.csdn.net/v_JULY_v
 
+
+ROS SLAM
+
+	1.ROS IDE http://www.roboware.me/#/home
   
   
