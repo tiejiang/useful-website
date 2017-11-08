@@ -16,5 +16,13 @@ ROS SLAM
 
   ROS IDE http:
 	//www.roboware.me/#/home
+
+AI
+    
+    15个人工智能工具
+    http://blog.csdn.net/abcd1430/article/details/52744207
+    
+    TensorFlow中文社区
+    http://www.tensorfly.cn/
   
   
